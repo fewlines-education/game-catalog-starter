@@ -6,14 +6,14 @@ import { makeApp } from "../../src/server";
 
 dotenv.config();
 
+jest.setTimeout(50000);
+
 let server: Server;
 let mongoClient: MongoClient;
+const databaseUrl: string = process.env.MONGO_URL || "";
 
-beforeEach((done) => {
-  const options = { useNewUrlParser: true, useUnifiedTopology: true };
-  const databaseUrl: string = process.env.MONGO_URL || "";
-
-  MongoClient.connect(databaseUrl, options).then((client) => {
+beforeEach(async (done) => {
+  return await MongoClient.connect(databaseUrl).then(async (client) => {
     mongoClient = client;
     const db = mongoClient.db();
 

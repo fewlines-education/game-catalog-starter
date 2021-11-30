@@ -16,6 +16,18 @@ Put your Mongo Database URL in the `.env` file.
 yarn dev
 ```
 
+## Populate DB
+
+```sh-session
+yarn populate-db
+```
+
+## Destroy DB
+
+```sh-session
+yarn destroy-db
+```
+
 ## Tests
 
 ```sh-session
