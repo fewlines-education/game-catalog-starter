@@ -16,7 +16,7 @@ jobs:
           - 27017:27017
 
     container:
-      image:  node:14.8-buster
+      image:  node:16.13
 
     steps:
       - uses: actions/checkout@v2
