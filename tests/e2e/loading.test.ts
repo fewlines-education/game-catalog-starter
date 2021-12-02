@@ -12,20 +12,6 @@ let server: Server;
 let mongoClient: MongoClient;
 const databaseUrl: string = process.env.MONGO_URL || "";
 
-beforeEach(async (done) => {
-  return await MongoClient.connect(databaseUrl).then(async (client) => {
-    mongoClient = client;
-    const db = mongoClient.db();
-
-    server = makeApp(db).listen(3030, done);
-  });
-});
-
-afterEach(async (done) => {
-  await mongoClient.close();
-  server.close(done);
-});
-
 beforeAll(async () => {
   await openBrowser({
     args: [
@@ -38,6 +24,20 @@ beforeAll(async () => {
     observe: false,
     observeTime: 2000,
   });
+});
+
+beforeEach(async () => {
+  return await MongoClient.connect(databaseUrl).then(async (client) => {
+    mongoClient = client;
+    const db = mongoClient.db();
+
+    server = makeApp(db).listen(3030);
+  });
+});
+
+afterEach(async () => {
+  await mongoClient.close();
+  server.close();
 });
 
 afterAll(async () => {
