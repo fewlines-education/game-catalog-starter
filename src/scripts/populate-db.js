@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 const mongo = require("mongodb");
 const games = require("./games.json");
 const dotenv = require("dotenv")
@@ -5,7 +6,6 @@ const dotenv = require("dotenv")
 dotenv.config()
 
 let databaseUrl = process.env.MONGO_URL || "";
-const options = { useNewUrlParser: true, useUnifiedTopology: true };
 
 if (process.env.HEROKU_APP_NAME) {
   const url = new URL(databaseUrl)
@@ -14,7 +14,7 @@ if (process.env.HEROKU_APP_NAME) {
   databaseUrl = url.toString();
 }
 
-mongo.MongoClient.connect(databaseUrl, options).then((client) => {
+mongo.MongoClient.connect(databaseUrl).then((client) => {
   return client
     .db()
     .collection("games")
@@ -25,6 +25,6 @@ mongo.MongoClient.connect(databaseUrl, options).then((client) => {
     .then(() => client.db().collection("games").insertMany(games))
     .then(() => {
       client.close();
-      console.log("populated");
+      console.log("Database populated");
     });
 });
