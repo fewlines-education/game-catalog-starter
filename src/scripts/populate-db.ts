@@ -1,4 +1,5 @@
 import { MongoClient } from "mongodb";
+import games from "./games.json";
 import "dotenv/config";
 
 let databaseUrl = process.env.MONGO_URL || "";
@@ -12,6 +13,13 @@ if (process.env.HEROKU_APP_NAME) {
   databaseUrl = url.toString();
 }
 
-export function initDB(): Promise<MongoClient> {
-  return MongoClient.connect(databaseUrl);
-}
+MongoClient.connect(databaseUrl).then(async (client) => {
+  try {
+    await client.db().collection("games").drop();
+  } catch {
+    console.log("No games collection found, creating one...");
+  }
+  await client.db().collection("games").insertMany(games);
+  client.close();
+  console.log("Database populated");
+});

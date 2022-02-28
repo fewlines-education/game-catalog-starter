@@ -48,9 +48,7 @@
   {
     "code": 48989,
     "first_release_date": 738115200,
-    "genres": [
-      "Puzzle"
-    ],
+    "genres": ["Puzzle"],
     "name": "Mickey Mouse IV: The Magical Labyrinth",
     "platform": {
       "name": "Game Boy",
@@ -75,9 +73,7 @@
       "checksum": "d8ac5e63-11aa-40a9-ddda-af8d1a2474ea"
     },
     "first_release_date": 853718400,
-    "genres": [
-      "Strategy"
-    ],
+    "genres": ["Strategy"],
     "name": "Bomberman GB 3",
     "platform": {
       "name": "Game Boy",
@@ -100,10 +96,7 @@
       "checksum": "f855687c-8bdc-230a-512b-eb021689b649"
     },
     "first_release_date": 630720000,
-    "genres": [
-      "Platform",
-      "Puzzle"
-    ],
+    "genres": ["Platform", "Puzzle"],
     "name": "Boomer's Adventure in ASMIK World",
     "platform": {
       "name": "Game Boy",
@@ -128,9 +121,7 @@
       "checksum": "fc911bd3-5623-6d65-da1a-52113cad2013"
     },
     "first_release_date": 760060800,
-    "genres": [
-      "Platform"
-    ],
+    "genres": ["Platform"],
     "name": "The Simpsons: Bart & the Beanstalk",
     "platform": {
       "name": "Game Boy",
@@ -155,9 +146,7 @@
       "checksum": "7c3a21ea-dc54-6e0e-19c3-db0251eeb91c"
     },
     "first_release_date": 657417600,
-    "genres": [
-      "Puzzle"
-    ],
+    "genres": ["Puzzle"],
     "name": "Snoopy's Magic Show",
     "platform": {
       "name": "Game Boy",
@@ -180,11 +169,7 @@
       "checksum": "ac09dad5-1eb3-5f04-0902-c109d0179542"
     },
     "first_release_date": 769564800,
-    "genres": [
-      "Fighting",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ],
+    "genres": ["Fighting", "Hack and slash/Beat 'em up", "Adventure"],
     "name": "Bishoujo Senshi Sailor Moon R",
     "platform": {
       "name": "Game Boy",
@@ -207,9 +192,7 @@
       "checksum": "40f2f565-fc19-e103-5595-944e4a27ce22"
     },
     "first_release_date": 639360000,
-    "genres": [
-      "Strategy"
-    ],
+    "genres": ["Strategy"],
     "name": "Serpent",
     "platform": {
       "name": "Game Boy",
@@ -234,11 +217,7 @@
       "checksum": "a08c4829-5955-f6df-ab5c-f40fbc1fd767"
     },
     "first_release_date": 851990400,
-    "genres": [
-      "Puzzle",
-      "Strategy",
-      "Quiz/Trivia"
-    ],
+    "genres": ["Puzzle", "Strategy", "Quiz/Trivia"],
     "name": "Jeopardy! Teen Tournament",
     "platform": {
       "name": "Game Boy",
@@ -263,9 +242,7 @@
       "checksum": "7f30e6fe-e659-fc2c-0cd7-c90517ca8df6"
     },
     "first_release_date": 893635200,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Kobe Bryant in NBA Courtside",
     "platform": {
       "name": "Nintendo 64",
@@ -290,10 +267,7 @@
       "checksum": "29316005-14d0-229a-a6b0-70747d3b5ffe"
     },
     "first_release_date": 896659200,
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
+    "genres": ["Role-playing (RPG)", "Adventure"],
     "name": "Quest 64",
     "platform": {
       "name": "Nintendo 64",
@@ -339,9 +313,7 @@
       "checksum": "bbe84a2f-8d1b-eab3-c123-1797a2d3d070"
     },
     "first_release_date": 922320000,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Jikkyō Powerful Pro Yakyū 6",
     "platform": {
       "name": "Nintendo 64",
@@ -366,9 +338,7 @@
       "checksum": "602a799b-a230-3e24-b6cd-3ed2b1f22c42"
     },
     "first_release_date": 915062400,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Mundial Ronaldinho Soccer 64",
     "platform": {
       "name": "Nintendo 64",
@@ -391,9 +361,7 @@
       "checksum": "0946dd39-34e5-9ec0-2b56-19c01dbe0b53"
     },
     "first_release_date": 853718400,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Chou Kuukan Night Pro Yakyuu King",
     "platform": {
       "name": "Nintendo 64",
@@ -416,9 +384,7 @@
       "checksum": "d5bafc92-4af3-4c4d-d70a-f0f4ac16cc2e"
     },
     "first_release_date": 965088000,
-    "genres": [
-      "Adventure"
-    ],
+    "genres": ["Adventure"],
     "name": "Taz Express",
     "platform": {
       "name": "Nintendo 64",
@@ -468,9 +434,7 @@
       "checksum": "6e883c66-6cd3-bef9-f7ba-8fa76584b18b"
     },
     "first_release_date": 956275200,
-    "genres": [
-      "Racing"
-    ],
+    "genres": ["Racing"],
     "name": "F-Zero X Expansion Kit",
     "platform": {
       "name": "Nintendo 64",
@@ -493,9 +457,7 @@
       "checksum": "f226ed0d-2661-025a-e20f-419c64cc7e74"
     },
     "first_release_date": 936144000,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Premier Manager 64",
     "platform": {
       "name": "Nintendo 64",
@@ -518,9 +480,7 @@
       "checksum": "fdbf3159-ef25-abb8-0a06-a82056666a43"
     },
     "first_release_date": 1101945600,
-    "genres": [
-      "Music"
-    ],
+    "genres": ["Music"],
     "name": "Daigasso! Band Brothers",
     "platform": {
       "name": "Nintendo DS",
@@ -570,9 +530,7 @@
       "checksum": "2a8ead29-008f-1988-3315-7c529c0a7968"
     },
     "first_release_date": 1243641600,
-    "genres": [
-      "Role-playing (RPG)"
-    ],
+    "genres": ["Role-playing (RPG)"],
     "name": "Kingdom Hearts 358/2 Days",
     "platform": {
       "name": "Nintendo DS",
@@ -595,10 +553,7 @@
       "checksum": "b3817e97-fb2f-ed14-dc83-24c6e5ddc3cf"
     },
     "first_release_date": 1219276800,
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy"
-    ],
+    "genres": ["Role-playing (RPG)", "Strategy"],
     "name": "Tokyo Majin Gakuen: Kenfuuchou",
     "platform": {
       "name": "Nintendo DS",
@@ -621,9 +576,7 @@
       "checksum": "d2e495f9-61d3-53cc-b2bd-03e0ba0a3786"
     },
     "first_release_date": 1251244800,
-    "genres": [
-      "Puzzle"
-    ],
+    "genres": ["Puzzle"],
     "name": "Harvest Moon: Frantic Farming",
     "platform": {
       "name": "Nintendo DS",
@@ -648,9 +601,7 @@
       "checksum": "e7fa2270-dec7-8532-e5b6-a822e765a3cc"
     },
     "first_release_date": 1116633600,
-    "genres": [
-      "Simulator"
-    ],
+    "genres": ["Simulator"],
     "name": "Nintendogs: Lab & Friends",
     "platform": {
       "name": "Nintendo DS",
@@ -675,10 +626,7 @@
       "checksum": "962a51f6-f86e-610c-b29d-5b578d21ffab"
     },
     "first_release_date": 1161043200,
-    "genres": [
-      "Platform",
-      "Arcade"
-    ],
+    "genres": ["Platform", "Arcade"],
     "name": "Disney's American Dragon: Jake Long - Attack of the Dark Dragon",
     "platform": {
       "name": "Nintendo DS",
@@ -703,10 +651,7 @@
       "checksum": "53f96091-1c93-2fce-49db-a5d0d258bda2"
     },
     "first_release_date": 1235692800,
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ],
+    "genres": ["Puzzle", "Adventure"],
     "name": "Peggle: Dual Shot",
     "platform": {
       "name": "Nintendo DS",
@@ -752,9 +697,7 @@
       "checksum": "5e81d76e-194c-c2ea-2f43-a3d872a00bc9"
     },
     "first_release_date": 1352160000,
-    "genres": [
-      "Adventure"
-    ],
+    "genres": ["Adventure"],
     "name": "Team Umizoomi & Dora's Fantastic Flight",
     "platform": {
       "name": "Nintendo DS",
@@ -777,9 +720,7 @@
       "checksum": "9582e3c0-cbb6-9f6d-7624-56553d21f8d8"
     },
     "first_release_date": 665625600,
-    "genres": [
-      "Role-playing (RPG)"
-    ],
+    "genres": ["Role-playing (RPG)"],
     "name": "Juvei Quest",
     "platform": {
       "name": "Nintendo Entertainment System (NES)",
@@ -816,9 +757,7 @@
   {
     "code": 48313,
     "first_release_date": 648000000,
-    "genres": [
-      "Strategy"
-    ],
+    "genres": ["Strategy"],
     "name": "Daikaijuu Deburas",
     "platform": {
       "name": "Nintendo Entertainment System (NES)",
@@ -841,9 +780,7 @@
       "checksum": "c44941ce-379d-5809-d155-9bae077f2913"
     },
     "first_release_date": 591667200,
-    "genres": [
-      "Shooter"
-    ],
+    "genres": ["Shooter"],
     "name": "Xevious: The Avenger",
     "platform": {
       "name": "Nintendo Entertainment System (NES)",
@@ -866,10 +803,7 @@
       "checksum": "4f5ad7ae-d7d0-ab24-5619-32b6ff14065e"
     },
     "first_release_date": 570844800,
-    "genres": [
-      "Platform",
-      "Role-playing (RPG)"
-    ],
+    "genres": ["Platform", "Role-playing (RPG)"],
     "name": "Kamen Rider Club: Gekitotsu Shocker Land",
     "platform": {
       "name": "Nintendo Entertainment System (NES)",
@@ -892,9 +826,7 @@
       "checksum": "924ded70-b9a4-eaeb-46ef-3cb3e02e5ad3"
     },
     "first_release_date": 636249600,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Super Spike V'Ball",
     "platform": {
       "name": "Nintendo Entertainment System (NES)",
@@ -917,9 +849,7 @@
       "checksum": "657c1c94-b921-1ef7-df23-8e98a1c7fc91"
     },
     "first_release_date": 603504000,
-    "genres": [
-      "Shooter"
-    ],
+    "genres": ["Shooter"],
     "name": "Space Shadow",
     "platform": {
       "name": "Nintendo Entertainment System (NES)",
@@ -933,9 +863,7 @@
   {
     "code": 48615,
     "first_release_date": 681350400,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Baseball Fighter",
     "platform": {
       "name": "Nintendo Entertainment System (NES)",
@@ -958,9 +886,7 @@
       "checksum": "519b0cae-b503-26d3-c8d0-f04cac3b9687"
     },
     "first_release_date": 1264982400,
-    "genres": [
-      "Shooter"
-    ],
+    "genres": ["Shooter"],
     "name": "Blade Buster",
     "platform": {
       "name": "Nintendo Entertainment System (NES)",
@@ -983,9 +909,7 @@
       "checksum": "2aac9c7f-8efb-42d7-b000-b7f3d6741439"
     },
     "first_release_date": 662688000,
-    "genres": [
-      "Platform"
-    ],
+    "genres": ["Platform"],
     "name": "Peter Pan and the Pirates",
     "platform": {
       "name": "Nintendo Entertainment System (NES)",
@@ -1008,9 +932,7 @@
       "checksum": "fc30be1f-dc72-2616-11cc-e954fbc6e367"
     },
     "first_release_date": 980985600,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "BursTrick WakeBoarding",
     "platform": {
       "name": "PlayStation",
@@ -1033,9 +955,7 @@
       "checksum": "79df11ba-e300-5af6-aa75-8cb7d14e144f"
     },
     "first_release_date": 859507200,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Doki Doki Pretty League",
     "platform": {
       "name": "PlayStation",
@@ -1058,9 +978,7 @@
       "checksum": "144cd31a-19a9-9fd9-d3c1-f4d2c8105c6b"
     },
     "first_release_date": 970099200,
-    "genres": [
-      "Adventure"
-    ],
+    "genres": ["Adventure"],
     "name": "Blade Arts: Tasogare no Miyako R'lyeh",
     "platform": {
       "name": "PlayStation",
@@ -1097,9 +1015,7 @@
   {
     "code": 43915,
     "first_release_date": 949363200,
-    "genres": [
-      "Adventure"
-    ],
+    "genres": ["Adventure"],
     "name": "Detective Barbie: The Mystery Cruise",
     "platform": {
       "name": "PlayStation",
@@ -1122,10 +1038,7 @@
       "checksum": "706a3fea-e69e-3078-56fe-d6c195b38624"
     },
     "first_release_date": 893980800,
-    "genres": [
-      "Racing",
-      "Sport"
-    ],
+    "genres": ["Racing", "Sport"],
     "name": "VR Powerboat Racing",
     "platform": {
       "name": "PlayStation",
@@ -1148,9 +1061,7 @@
       "checksum": "24f58c08-6789-7946-6fa7-cc5ecd21aa4e"
     },
     "first_release_date": 987292800,
-    "genres": [
-      "Puzzle"
-    ],
+    "genres": ["Puzzle"],
     "name": "Buttsubushi",
     "platform": {
       "name": "PlayStation",
@@ -1173,10 +1084,7 @@
       "checksum": "44afe051-6348-e8dd-1c30-77db7231f675"
     },
     "first_release_date": 993081600,
-    "genres": [
-      "Puzzle",
-      "Strategy"
-    ],
+    "genres": ["Puzzle", "Strategy"],
     "name": "One Piece Mansion",
     "platform": {
       "name": "PlayStation",
@@ -1222,9 +1130,7 @@
       "checksum": "cd20f4aa-7115-7d01-c1aa-50cc8595caff"
     },
     "first_release_date": 865123200,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Adidas Power Soccer International '97",
     "platform": {
       "name": "PlayStation",
@@ -1249,10 +1155,7 @@
       "checksum": "c1612796-0e1c-c032-60b9-c904fc6d5a1f"
     },
     "first_release_date": 1072828800,
-    "genres": [
-      "Music",
-      "Simulator"
-    ],
+    "genres": ["Music", "Simulator"],
     "name": "Karaoke Revolution",
     "platform": {
       "name": "PlayStation 2",
@@ -1275,9 +1178,7 @@
       "checksum": "5aef6d02-ec77-a6e1-6f45-2ba2e38ee01b"
     },
     "first_release_date": 1032998400,
-    "genres": [
-      "Racing"
-    ],
+    "genres": ["Racing"],
     "name": "MaXXed Out Racing",
     "platform": {
       "name": "PlayStation 2",
@@ -1323,9 +1224,7 @@
       "checksum": "1f06afb9-fe4f-4f01-af28-01578f5bc393"
     },
     "first_release_date": 1010534400,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "NCAA March Madness 2002",
     "platform": {
       "name": "PlayStation 2",
@@ -1348,10 +1247,7 @@
       "checksum": "146b3485-7941-e161-488b-1e553eb9b9f9"
     },
     "first_release_date": 1109203200,
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ],
+    "genres": ["Role-playing (RPG)", "Adventure"],
     "name": "Wizardry Xth: Academy of Frontier",
     "platform": {
       "name": "PlayStation 2",
@@ -1399,9 +1295,7 @@
       "checksum": "38d5d014-c993-fe6a-05e9-5900ac74a2e9"
     },
     "first_release_date": 1161907200,
-    "genres": [
-      "Music"
-    ],
+    "genres": ["Music"],
     "name": "Singstar: Legends",
     "platform": {
       "name": "PlayStation 2",
@@ -1426,9 +1320,7 @@
       "checksum": "b7c0fabb-7e7a-91ff-edff-c88ad8272895"
     },
     "first_release_date": 1277510400,
-    "genres": [
-      "Music"
-    ],
+    "genres": ["Music"],
     "name": "Singstar: Kent",
     "platform": {
       "name": "PlayStation 2",
@@ -1451,9 +1343,7 @@
       "checksum": "fcdf0230-e174-88a3-a6a9-f85e31ae1cc4"
     },
     "first_release_date": 1126569600,
-    "genres": [
-      "Hack and slash/Beat 'em up"
-    ],
+    "genres": ["Hack and slash/Beat 'em up"],
     "name": "Urban Reign",
     "platform": {
       "name": "PlayStation 2",
@@ -1476,9 +1366,7 @@
       "checksum": "26628c89-e6b5-b5ef-5152-b4269d8c9870"
     },
     "first_release_date": 1151452800,
-    "genres": [
-      "Platform"
-    ],
+    "genres": ["Platform"],
     "name": "Ruff Trigger: The Vanocore Conspiracy",
     "platform": {
       "name": "PlayStation 2",
@@ -1503,11 +1391,7 @@
       "checksum": "415f5503-8f57-bd76-c297-2429213d6c4c"
     },
     "first_release_date": 1449705600,
-    "genres": [
-      "Platform",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ],
+    "genres": ["Platform", "Hack and slash/Beat 'em up", "Adventure"],
     "name": "Gravity Rush Remastered",
     "platform": {
       "name": "PlayStation 4",
@@ -1530,9 +1414,7 @@
       "checksum": "eb991a15-da17-211c-6b99-d6353d1ba3e9"
     },
     "first_release_date": 1470700800,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "OlliOlli: Epic Combo Edition",
     "platform": {
       "name": "PlayStation 4",
@@ -1557,9 +1439,7 @@
       "checksum": "86737379-9bab-2a93-9ad7-98fb9007b015"
     },
     "first_release_date": 1548374400,
-    "genres": [
-      "Shooter"
-    ],
+    "genres": ["Shooter"],
     "name": "Resident Evil 2: Deluxe Edition",
     "platform": {
       "name": "PlayStation 4",
@@ -1631,9 +1511,7 @@
       "checksum": "bdb067dd-c94d-46f8-cbb4-e645e731f8e9"
     },
     "first_release_date": 1540512000,
-    "genres": [
-      "Platform"
-    ],
+    "genres": ["Platform"],
     "name": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
     "platform": {
       "name": "PlayStation 4",
@@ -1658,10 +1536,7 @@
       "checksum": "d74291ca-237b-0893-cefc-23424539f9cc"
     },
     "first_release_date": 1524182400,
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ],
+    "genres": ["Hack and slash/Beat 'em up", "Adventure"],
     "name": "God of War",
     "platform": {
       "name": "PlayStation 4",
@@ -1685,9 +1560,7 @@
       "width": 750,
       "checksum": "490a20cd-56a5-b74c-ff08-eaf9accb6508"
     },
-    "genres": [
-      "Shooter"
-    ],
+    "genres": ["Shooter"],
     "name": "Kill X",
     "platform": {
       "name": "PlayStation 4",
@@ -1712,10 +1585,7 @@
       "checksum": "9398d75d-bfe6-597c-7777-378287e74896"
     },
     "first_release_date": 1524182400,
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ],
+    "genres": ["Hack and slash/Beat 'em up", "Adventure"],
     "name": "God of War: Bonus Edition",
     "platform": {
       "name": "PlayStation 4",
@@ -1763,10 +1633,7 @@
       "checksum": "9aea1a01-b55f-a212-b053-5e00be4121ad"
     },
     "first_release_date": 1579046400,
-    "genres": [
-      "Strategy",
-      "Arcade"
-    ],
+    "genres": ["Strategy", "Arcade"],
     "name": "Planetary Defense Force",
     "platform": {
       "name": "Nintendo Switch",
@@ -1791,10 +1658,7 @@
       "checksum": "97a27300-f9ed-c2d4-1339-28d1fe9e0836"
     },
     "first_release_date": 1555632000,
-    "genres": [
-      "Racing",
-      "Arcade"
-    ],
+    "genres": ["Racing", "Arcade"],
     "name": "Moto Rush GT",
     "platform": {
       "name": "Nintendo Switch",
@@ -1842,10 +1706,7 @@
       "checksum": "e95b2749-571e-fc93-4681-6fd87c05c146"
     },
     "first_release_date": 1536883200,
-    "genres": [
-      "Simulator",
-      "Adventure"
-    ],
+    "genres": ["Simulator", "Adventure"],
     "name": "Nintendo Labo: Toy-Con 03 - Vehicle Kit",
     "platform": {
       "name": "Nintendo Switch",
@@ -1870,10 +1731,7 @@
       "checksum": "57f3c942-d228-e668-d337-40045baeb6a2"
     },
     "first_release_date": 1577923200,
-    "genres": [
-      "Sport",
-      "Arcade"
-    ],
+    "genres": ["Sport", "Arcade"],
     "name": "Arcade Archives Penguin-Kun Wars",
     "platform": {
       "name": "Nintendo Switch",
@@ -1898,12 +1756,7 @@
       "checksum": "a8a56d0c-0bbb-678e-c1a9-fe4bcf031a55"
     },
     "first_release_date": 1584576000,
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
-    ],
+    "genres": ["Puzzle", "Role-playing (RPG)", "Adventure", "Indie"],
     "name": "Ittle Dew 2+",
     "platform": {
       "name": "Nintendo Switch",
@@ -1928,10 +1781,7 @@
       "checksum": "d7f1b064-97c2-ed8a-3147-23c90fcb7ef6"
     },
     "first_release_date": 1583280000,
-    "genres": [
-      "Platform",
-      "Puzzle"
-    ],
+    "genres": ["Platform", "Puzzle"],
     "name": "I am Ball",
     "platform": {
       "name": "Nintendo Switch",
@@ -1956,10 +1806,7 @@
       "checksum": "43877be9-da6c-4002-3780-61f3e47b5656"
     },
     "first_release_date": 1589414400,
-    "genres": [
-      "Shooter",
-      "Arcade"
-    ],
+    "genres": ["Shooter", "Arcade"],
     "name": "SEGA AGES THUNDER FORCE AC",
     "platform": {
       "name": "Nintendo Switch",
@@ -1973,10 +1820,7 @@
   {
     "code": 117746,
     "first_release_date": 1577750400,
-    "genres": [
-      "Simulator",
-      "Adventure"
-    ],
+    "genres": ["Simulator", "Adventure"],
     "name": "The Fruit, Labyrinth, and Eden of Grisaia Full Package",
     "platform": {
       "name": "Nintendo Switch",
@@ -2001,10 +1845,7 @@
       "checksum": "27905a73-860d-c3ed-5949-7c5f1e7344fe"
     },
     "first_release_date": 1547769600,
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ],
+    "genres": ["Hack and slash/Beat 'em up", "Adventure"],
     "name": "Travis Strikes Again: No More Heroes",
     "platform": {
       "name": "Nintendo Switch",
@@ -2050,9 +1891,7 @@
       "checksum": "e14d553e-8db0-6095-7775-abac33f8eb64"
     },
     "first_release_date": 1343001600,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "1on1 Basketball",
     "platform": {
       "name": "Xbox 360",
@@ -2066,9 +1905,7 @@
   {
     "code": 47391,
     "first_release_date": 1222387200,
-    "genres": [
-      "Role-playing (RPG)"
-    ],
+    "genres": ["Role-playing (RPG)"],
     "name": "Tales of Vesperia Special Edition",
     "platform": {
       "name": "Xbox 360",
@@ -2093,11 +1930,7 @@
       "checksum": "284c3c7c-c014-7da2-b97e-28b78dad1168"
     },
     "first_release_date": 1330646400,
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Adventure"
-    ],
+    "genres": ["Role-playing (RPG)", "Strategy", "Adventure"],
     "name": "Final Fantasy XIII-2: Collector's Edition",
     "platform": {
       "name": "Xbox 360",
@@ -2122,10 +1955,7 @@
       "checksum": "c642974f-3c00-a924-29d8-faad6a93b7e5"
     },
     "first_release_date": 1319155200,
-    "genres": [
-      "Music",
-      "Arcade"
-    ],
+    "genres": ["Music", "Arcade"],
     "name": "Dance Central 2",
     "platform": {
       "name": "Xbox 360",
@@ -2171,9 +2001,7 @@
       "checksum": "d89e7b15-c0d4-4d0b-9ddd-d4921f791bd5"
     },
     "first_release_date": 1324080000,
-    "genres": [
-      "Fighting"
-    ],
+    "genres": ["Fighting"],
     "name": "Nurarihyon no Mago: Hyakki Ryouran Taisen",
     "platform": {
       "name": "Xbox 360",
@@ -2198,9 +2026,7 @@
       "checksum": "9da12a06-f996-830c-b4f8-fde3218477f7"
     },
     "first_release_date": 1311552000,
-    "genres": [
-      "Indie"
-    ],
+    "genres": ["Indie"],
     "name": "Venture",
     "platform": {
       "name": "Xbox 360",
@@ -2225,10 +2051,7 @@
       "checksum": "cb9d11ed-2d43-5584-455e-b69abbcf71c0"
     },
     "first_release_date": 1304553600,
-    "genres": [
-      "Simulator",
-      "Arcade"
-    ],
+    "genres": ["Simulator", "Arcade"],
     "name": "Carnival Games: Monkey See, Monkey Do",
     "platform": {
       "name": "Xbox 360",
@@ -2251,9 +2074,7 @@
       "checksum": "9b9b1f5d-8cac-c178-0daf-9e61b52ccb83"
     },
     "first_release_date": 1292457600,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "EA Sports Active 2.0",
     "platform": {
       "name": "Xbox 360",
@@ -2308,10 +2129,7 @@
       "checksum": "c68af3f9-a708-fbf9-99ee-423a304764d4"
     },
     "first_release_date": 1384819200,
-    "genres": [
-      "Fighting",
-      "Sport"
-    ],
+    "genres": ["Fighting", "Sport"],
     "name": "Fighter Within",
     "platform": {
       "name": "Xbox One",
@@ -2391,10 +2209,7 @@
       "checksum": "96a5c7bc-a381-3ea1-a636-3de10e42cbea"
     },
     "first_release_date": 1411430400,
-    "genres": [
-      "Fighting",
-      "Arcade"
-    ],
+    "genres": ["Fighting", "Arcade"],
     "name": "Killer Instinct 2 Classic",
     "platform": {
       "name": "Xbox One",
@@ -2417,9 +2232,7 @@
       "checksum": "4456099f-9e17-e602-b9a9-4b3dd7810102"
     },
     "first_release_date": 1461110400,
-    "genres": [
-      "Arcade"
-    ],
+    "genres": ["Arcade"],
     "name": "ARCADE GAME SERIES: Ms. PAC-MAN",
     "platform": {
       "name": "Xbox One",
@@ -2469,9 +2282,7 @@
       "checksum": "96bc7c65-a658-0638-bb07-229573df5e53"
     },
     "first_release_date": 1570752000,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Active Soccer 2019",
     "platform": {
       "name": "Xbox One",
@@ -2496,9 +2307,7 @@
       "checksum": "bd644c74-8d07-f17f-c0f0-594b08664698"
     },
     "first_release_date": 1385078400,
-    "genres": [
-      "Sport"
-    ],
+    "genres": ["Sport"],
     "name": "Xbox Fitness",
     "platform": {
       "name": "Xbox One",

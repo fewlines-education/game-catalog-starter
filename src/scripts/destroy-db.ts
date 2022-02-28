@@ -12,6 +12,8 @@ if (process.env.HEROKU_APP_NAME) {
   databaseUrl = url.toString();
 }
 
-export function initDB(): Promise<MongoClient> {
-  return MongoClient.connect(databaseUrl);
-}
+MongoClient.connect(databaseUrl).then(async (client: MongoClient) => {
+  await client.db().dropDatabase();
+  client.close();
+  console.log("Database dropped");
+});

@@ -1,9 +1,7 @@
-
 name: CI unit tests
 
 on:
   pull_request:
-
 
 jobs:
   unit-tests:
@@ -16,7 +14,7 @@ jobs:
           - 27017:27017
 
     container:
-      image:  node:16.13
+      image: node:16.13
 
     steps:
       - uses: actions/checkout@v2
