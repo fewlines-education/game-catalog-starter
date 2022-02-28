@@ -10,7 +10,6 @@
     "destroy-db": "ts-node ./src/scripts/destroy-db.ts",
     "format": "prettier --write .",
     "lint": "eslint \"{src,tests}/**/*.{js,ts,jsx,tsx}\"",
-    "start": "node dist/index.js",
     "test": "yarn test:unit && yarn test:e2e",
     "test:unit": "jest --runInBand tests/unit",
     "test:e2e": "jest --runInBand tests/e2e"
