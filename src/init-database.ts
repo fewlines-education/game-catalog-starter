@@ -1,5 +1,5 @@
-import { MongoClient } from "mongodb";
 import "dotenv/config";
+import { MongoClient } from "mongodb";
 
 let databaseUrl = process.env.MONGO_URL || "";
 
@@ -13,5 +13,7 @@ if (process.env.HEROKU_APP_NAME) {
 }
 
 export function initDB(): Promise<MongoClient> {
-  return MongoClient.connect(databaseUrl);
+  const client = new MongoClient(databaseUrl);
+  return client.connect();
+  // return MongoClient.connect(databaseUrl);
 }

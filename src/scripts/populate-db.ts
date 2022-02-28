@@ -1,6 +1,6 @@
+import "dotenv/config";
 import { MongoClient } from "mongodb";
 import games from "./games.json";
-import "dotenv/config";
 
 let databaseUrl = process.env.MONGO_URL || "";
 
@@ -13,7 +13,8 @@ if (process.env.HEROKU_APP_NAME) {
   databaseUrl = url.toString();
 }
 
-MongoClient.connect(databaseUrl).then(async (client) => {
+const client = new MongoClient(databaseUrl);
+client.connect().then(async (client) => {
   try {
     await client.db().collection("games").drop();
   } catch {

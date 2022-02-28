@@ -12,7 +12,8 @@ if (process.env.HEROKU_APP_NAME) {
   databaseUrl = url.toString();
 }
 
-MongoClient.connect(databaseUrl).then(async (client: MongoClient) => {
+const client = new MongoClient(databaseUrl);
+client.connect().then(async (client: MongoClient) => {
   await client.db().dropDatabase();
   client.close();
   console.log("Database dropped");
