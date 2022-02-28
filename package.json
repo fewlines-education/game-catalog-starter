@@ -37,6 +37,32 @@
     "ts-node": "^10.5.0",
     "typescript": "^4.5.5"
   },
+  "eslintConfig": {
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module"
+    },
+    "extends": [
+      "eslint:recommended",
+      "plugin:@typescript-eslint/eslint-recommended",
+      "plugin:@typescript-eslint/recommended"
+    ],
+    "plugins": [
+      "@typescript-eslint"
+    ],
+    "env": {
+      "browser": true,
+      "node": true
+    },
+    "ignorePatterns": [
+      "jest.config.js",
+      "node_modules/",
+      "*.test.ts",
+      "src.sample/*"
+    ]
+  },
   "jest": {
     "preset": "ts-jest",
     "globals": {
