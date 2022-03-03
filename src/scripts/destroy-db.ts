@@ -1,5 +1,5 @@
-import "dotenv/config";
 import { MongoClient } from "mongodb";
+import "dotenv/config";
 
 let databaseUrl = process.env.MONGO_URL || "";
 
@@ -12,8 +12,9 @@ if (process.env.HEROKU_APP_NAME) {
   databaseUrl = url.toString();
 }
 
-export function initDB(): Promise<MongoClient> {
-  const client = new MongoClient(databaseUrl);
-  return client.connect();
-  // return MongoClient.connect(databaseUrl);
-}
+const client = new MongoClient(databaseUrl);
+client.connect().then(async (client: MongoClient) => {
+  await client.db().dropDatabase();
+  client.close();
+  console.log("Database dropped");
+});

@@ -1,4 +1,4 @@
-# bootcamp-game-catalog
+# Bootcamp game catalog
 
 ## Setup
 

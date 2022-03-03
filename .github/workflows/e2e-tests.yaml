@@ -3,7 +3,6 @@ name: CI e2e test
 on:
   pull_request:
 
-
 jobs:
   e2e-tests:
     runs-on: ubuntu-latest
