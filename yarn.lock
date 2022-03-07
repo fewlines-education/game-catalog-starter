@@ -2333,6 +2333,11 @@ detective@^5.2.0:
     defined "^1.0.0"
     minimist "^1.1.1"
 
+devtools-protocol@^0.0.977936:
+  version "0.0.977936"
+  resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.977936.tgz#b1500dbc304594ee19b644aa5e4a24d5a1a4ca61"
+  integrity sha512-lkUlgnZIlVVnKEUzvasw/JijW8e68dydAyqcJQ6lse0dpoDpkN3NayV4ijBDRdIBOc8WZD3FpeJRcE586oLieQ==
+
 diff-sequences@^27.4.0:
   version "27.4.0"
   resolved "https://registry.yarnpkg.com/diff-sequences/-/diff-sequences-27.4.0.tgz#d783920ad8d06ec718a060d00196dfef25b132a5"

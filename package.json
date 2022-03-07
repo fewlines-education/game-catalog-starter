@@ -30,6 +30,7 @@
     "@types/nunjucks": "^3.2.0",
     "@typescript-eslint/eslint-plugin": "^5.12.1",
     "@typescript-eslint/parser": "^5.12.1",
+    "devtools-protocol": "^0.0.977936",
     "eslint": "^8.10.0",
     "jest": "^27.4.3",
     "nodemon": "^2.0.15",
