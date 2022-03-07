@@ -6,6 +6,7 @@
   "scripts": {
     "build": "tsc",
     "dev": "nodemon",
+    "start": "node build/index.js",
     "populate-db": "ts-node ./src/scripts/populate-db.ts",
     "destroy-db": "ts-node ./src/scripts/destroy-db.ts",
     "format": "prettier --write .",
@@ -18,7 +19,9 @@
     "dotenv": "10.0.0",
     "express": "^4.17.3",
     "mongodb": "^4.4.0",
-    "nunjucks": "^3.2.3"
+    "nunjucks": "^3.2.3",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
@@ -32,9 +35,7 @@
     "nodemon": "^2.0.15",
     "prettier": "2.5.1",
     "taiko": "^1.2.8",
-    "ts-jest": "^27.0.7",
-    "ts-node": "^10.5.0",
-    "typescript": "^4.5.5"
+    "ts-jest": "^27.0.7"
   },
   "eslintConfig": {
     "root": true,
